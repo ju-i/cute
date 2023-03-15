@@ -17,6 +17,6 @@
 [대회홈페이지](https://www.naver.com) <br>
 [발표ppt](/presentation.pptx) <br>
 발표 동영상 <br>
-<iframe width="650" height="550" >(https://youtu.be/EGL1Epks1AY)
+<iframe width="1237" height="696" src="https://www.youtube.com/embed/EGL1Epks1AY" title="Homeboy - memories... [Full Album]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # 취미
