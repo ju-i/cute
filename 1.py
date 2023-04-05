@@ -142,8 +142,7 @@ print("while 0 다음줄입니다")
 #while False :
  #   print("실행이 되지않음")
  
-   '''
-
+  
 #break continue
 #단어 입력을 무한 루프로 받는다
 #그 글자를 3 번 써줌
@@ -165,7 +164,7 @@ while True :
             print(word, end=' ')
         print("해당 단어 끝")
 
-    '''    
+   
 while True :
     if exit인 경우 :
         break
@@ -175,4 +174,6 @@ while True :
         for :
             3번 찍는다
 
-'''
+ '''
+
+ import random 
